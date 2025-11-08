@@ -16,6 +16,21 @@ RESTful APIs - Complete backend API implementation
 
 Responsive Design - Mobile-first responsive interface
 
+Screenshot:
+
+<img width="1895" height="1021" alt="Screenshot 2025-11-08 210606" src="https://github.com/user-attachments/assets/996ff97c-f552-4ff7-bcd7-0ddd8cd17676" />
+
+
+
+<img width="1894" height="1017" alt="Screenshot 2025-11-08 210624" src="https://github.com/user-attachments/assets/093794ef-09b0-4e02-b1ee-e9f30195d6c6" />
+
+
+<img width="1915" height="1016" alt="Screenshot 2025-11-08 210646" src="https://github.com/user-attachments/assets/40919947-67bf-4b4e-b0b1-535de2900648" />
+
+
+<img width="1870" height="961" alt="Screenshot 2025-11-08 210658" src="https://github.com/user-attachments/assets/380c5c20-aa21-4f49-a44b-a446e3f8c9c0" />
+
+
 ✅ Backend APIs
 GET /api/products - Fetch all products
 
@@ -414,4 +429,5 @@ Mock Checkout	✅ Complete	Receipt generation
 Code Quality	✅ Complete	Clean, documented code
 Setup Instructions	✅ Complete	Detailed README
 🎉 Project is fully complete and ready for submission!
+
 
